@@ -39,7 +39,6 @@ hr{
     cursor: pointer;
 }
 
-
 nav{
     flex: 1;
     text-align: right;
@@ -63,11 +62,11 @@ nav ul li a{
     flex-basis: 50%;
 }
 h1{
-    color:yellowgreen;
+    color:yellow;
     font-size: 90px;
 }
 p{
-    color: greenyellow;
+    color: yellowgreen;
     font-size: 20px;
     line-height: 15px;
 }
@@ -94,13 +93,13 @@ button:hover{
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url('chitarra5.jpg');
     background-position: center;
     background-size: cover;
     transition: transform 0.5s;
 }
 .card1{
     background-image: url('chitarra7.jpg');
+
 }
 .card2{
     background-image: url('chitarra9.jpg');
